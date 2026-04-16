@@ -1,6 +1,10 @@
 {
   "name": "bs-css-dom",
   "version": "6.1.1",
+  "engines": {
+    "yarn": "4.9.2",
+    "node": "^24"
+  },
   "description": "bs-css bindings for React DOM",
   "type": "module",
   "scripts": {

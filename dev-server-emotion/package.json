@@ -1,6 +1,10 @@
 {
   "name": "dev-server-emotion",
   "version": "1.0.0",
+  "engines": {
+    "yarn": "4.9.2",
+    "node": "^24"
+  },
   "description": "Dev server",
   "type": "module",
   "private": true,

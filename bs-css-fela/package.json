@@ -1,6 +1,10 @@
 {
   "name": "bs-css-fela",
   "version": "5.1.1",
+  "engines": {
+    "yarn": "4.9.2",
+    "node": "^24"
+  },
   "description": "bs-css bindings for Fela",
   "type": "module",
   "scripts": {
