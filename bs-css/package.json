@@ -1,6 +1,10 @@
 {
   "name": "bs-css",
   "version": "18.1.1",
+  "engines": {
+    "yarn": "4.9.2",
+    "node": "^24"
+  },
   "description": "Css types",
   "type": "module",
   "scripts": {

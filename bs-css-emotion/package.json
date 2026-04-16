@@ -1,6 +1,10 @@
 {
   "name": "bs-css-emotion",
   "version": "7.1.1",
+  "engines": {
+    "yarn": "4.9.2",
+    "node": "^24"
+  },
   "description": "bs-css bindings for Emotion",
   "type": "module",
   "scripts": {
