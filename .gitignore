@@ -5,7 +5,7 @@
 /**/node_modules*
 /**/lib*
 /**/dist*
-/bs-css-emotion/example/bundle*.js
+/rescript-css-emotion/example/bundle*.js
 npm-debug.log
 .DS_Store
 .bsb.lock

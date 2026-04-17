@@ -1,5 +1,5 @@
 {
-  "name": "bs-css",
+  "name": "rescript-css",
   "version": "18.1.1",
   "engines": {
     "yarn": "4.9.2",
@@ -22,7 +22,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/giraud/bs-css.git"
+    "url": "git+https://github.com/remitbri/rescript-css.git"
   },
   "devDependencies": {
     "jest": "^30.0.0",
